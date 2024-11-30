@@ -1,0 +1,1 @@
+Debug/Cube.cpp.o Debug/Sphere.cpp.o Debug/VolumetricShape.cpp.o Debug/main.cpp.o Debug/Square.cpp.o Debug/Shape.cpp.o Debug/PlanarShape.cpp.o Debug/Circle.cpp.o   
